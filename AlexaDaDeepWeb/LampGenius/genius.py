@@ -1,5 +1,5 @@
 """ Once you run, you have to call 'genius' plus something"""
-""" Exemple: genius,whats the time?
+""" Example: genius,whats the time?
       genius, who the heck is 'a celebritys name,idk'
       genius, i am sad, or genius tell me a joke, he will tell you a joke, is it funny? of course not.
       genius, play ' a famous singer', ex: genius play justin bieber 
